@@ -1,0 +1,9 @@
+You will need the following modules:
+  - tkinter
+  - threading
+  - time
+  - os
+  - sys
+  - ssl
+  - re
+  - urllib
