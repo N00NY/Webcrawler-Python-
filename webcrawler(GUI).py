@@ -1,4 +1,5 @@
 #Official script by n00nY
+#Created on a Windows 7 machine -it could mess the GUI up if you are using a Linux or Mac OS
 
 import threading
 import tkinter, tkinter.scrolledtext
